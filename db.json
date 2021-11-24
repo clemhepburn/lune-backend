@@ -1,16 +1,13 @@
 {
-  "posts":[
+  "tracks" : [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "1",
+      "title": "november 2021",
+      "url": "https://storage.googleapis.com/clemsongs/november24.mp3",
+      "duration": "00:35:41",
+      "number": "01",
+      "description": "Félicia Atkinson, Lisa Lerkenfeldt, Susan Howe & David Grubbs, Emacs, Benoit B",
+      "artwork": "https://i1.sndcdn.com/artworks-000644569177-5sv4ap-t500x500.jpg"
     }
   ]
 }
