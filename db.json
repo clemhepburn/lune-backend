@@ -2,10 +2,19 @@
   "tracks" : [
     {
       "id": "1",
+      "title": "february 2021",
+      "url": "https://storage.googleapis.com/clemsongs/feb2021.mp3",
+      "duration": "00:48:42",
+      "number": "01",
+      "description": "from deepest february. can't remember tracklist",
+      "artwork": "https://i1.sndcdn.com/artworks-000644569177-5sv4ap-t500x500.jpg"
+    },
+    {
+      "id": "2",
       "title": "november 2021",
       "url": "https://storage.googleapis.com/clemsongs/november24.mp3",
       "duration": "00:35:41",
-      "number": "01",
+      "number": "02",
       "description": "Félicia Atkinson, Lisa Lerkenfeldt, Susan Howe & David Grubbs, Emacs, Benoit B",
       "artwork": "https://i1.sndcdn.com/artworks-000644569177-5sv4ap-t500x500.jpg"
     }
