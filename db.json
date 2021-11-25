@@ -17,16 +17,8 @@
       "number": "02",
       "description": "Félicia Atkinson, Lisa Lerkenfeldt, Susan Howe & David Grubbs, Emacs, Benoit B",
       "artwork": "https://storage.googleapis.com/clemsongs/IMG_7167.jpeg"
-    },
-    {
-      "id": "3",
-      "title": "river",
-      "url": "https://storage.googleapis.com/clemsongs/river.mp3",
-      "duration": "00:19:01",
-      "number": "03",
-      "description": "Nov 24, 2021. Brian Eno, Marja Ahti, Claire Rousay, Tenniscoats, Anne-F Jacques, Frank Ocean",
-      "artwork": "https://storage.googleapis.com/clemsongs/river.png"
     }
+
     
   ]
 }
